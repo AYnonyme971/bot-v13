@@ -13,4 +13,4 @@ function keepAlive() {
 }
 
 module.exports = keepAlive
-// N'oubliez pas de copier le lien du site et faire un nouveau moniteur avec Uptime Robot !
+// N'oubliez pas de copier le lien de le fenêtre site dans replit (et pas replit en lui-même) et faire un nouveau moniteur avec Uptime Robot !
