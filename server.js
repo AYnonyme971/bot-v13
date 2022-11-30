@@ -13,3 +13,4 @@ function keepAlive() {
 }
 
 module.exports = keepAlive
+// N'oubliez pas de copier le lien du site et faire un nouveau moniteur avec Uptime Robot !
